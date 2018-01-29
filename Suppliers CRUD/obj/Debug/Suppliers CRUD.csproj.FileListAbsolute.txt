@@ -1,0 +1,7 @@
+c:\users\kriswilliams\source\repos\Suppliers CRUD\Suppliers CRUD\bin\Debug\Suppliers CRUD.exe.config
+c:\users\kriswilliams\source\repos\Suppliers CRUD\Suppliers CRUD\bin\Debug\Suppliers CRUD.exe
+c:\users\kriswilliams\source\repos\Suppliers CRUD\Suppliers CRUD\bin\Debug\Suppliers CRUD.pdb
+c:\users\kriswilliams\source\repos\Suppliers CRUD\Suppliers CRUD\obj\Debug\Suppliers CRUD.csprojResolveAssemblyReference.cache
+c:\users\kriswilliams\source\repos\Suppliers CRUD\Suppliers CRUD\obj\Debug\Suppliers CRUD.csproj.CoreCompileInputs.cache
+c:\users\kriswilliams\source\repos\Suppliers CRUD\Suppliers CRUD\obj\Debug\Suppliers CRUD.exe
+c:\users\kriswilliams\source\repos\Suppliers CRUD\Suppliers CRUD\obj\Debug\Suppliers CRUD.pdb

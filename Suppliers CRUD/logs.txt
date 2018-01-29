@@ -1,0 +1,7 @@
+﻿Cannot open database "NORTWND" requested by the login. The login failed.
+Login failed for user 'Admin2-PC\KrisWilliams'.
+Cannot open database "NORTWND" requested by the login. The login failed.
+Login failed for user 'Admin2-PC\KrisWilliams'.
+Procedure or function 'DELETE_SUPPLIER' expects parameter '@SuplierId', which was not supplied.
+Procedure or function 'DELETE_SUPPLIER' expects parameter '@SuplierId', which was not supplied.
+Input string was not in a correct format.
